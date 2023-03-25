@@ -1,0 +1,6 @@
+{
+    "video": "data.mp4",
+    "show_status":"True",
+    "save_output":"True",
+    "zone1": [[419,312],[1120,312],[1120,535], [419,535]]
+}    

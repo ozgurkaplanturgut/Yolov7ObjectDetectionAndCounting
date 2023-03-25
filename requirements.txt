@@ -1,0 +1,39 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+matplotlib>
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+protobuf
+
+# Logging -------------------------------------
+tensorboard
+# wandb
+
+# Plotting ------------------------------------
+pandas
+seaborn
+
+# Export --------------------------------------
+# coremltools
+# onnx
+# onnx-simplifier
+# scikit-learn
+# tensorflow
+# tensorflowjs
+# openvino-dev 
+
+# Extras --------------------------------------
+ipython  
+psutil 
+thop  
+# albumentations
+# pycocotools
+# roboflow
