@@ -4,6 +4,10 @@
 
 This repo is the example of detecting objects via class-based inference structure and counting specified objects, from WonKinYiu/yolov7
 
+## Pretrained weights
+
+You can download pretrained weights via https://drive.google.com/drive/folders/1LHLcoVVVbUH6o5A8VfSb_GhZswQuYUrj?usp=sharing
+
 ## Get Started
 
 Before everything, you must have cuda-cudnn-torch installed. (Preffered Cuda-11.3, Cudnn-8.2.1 and Pytorch for Cuda 11.3)
