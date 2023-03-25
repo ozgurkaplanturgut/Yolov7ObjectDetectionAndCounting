@@ -24,7 +24,7 @@ If the above instructions gives error, you can do;
 
 3-) Then get in the extracted file, open terminal and command pip3 install -r requirements.txt
 
-After these points, you are free to run yolor_inference.py file.
+After these points, you are free to run yolov7_inference.py file.
 
 
 ```
